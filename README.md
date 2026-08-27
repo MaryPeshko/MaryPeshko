@@ -1,7 +1,9 @@
 👋 **Hi, I’m Maryna Peshko** (she/her)
 
 <!-- About me section -->
-**Software Engineer** based in Berlin, Germany. 
+Software Engineer | C / C++, Linux, Docker | Systems, Embedded & Backend | 42 Berlin Graduate
+
+Based in Berlin, Germany. 
 
 
 ---
