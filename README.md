@@ -3,6 +3,8 @@
 <!-- About me section -->
 Software Engineer | Backend & Full-Stack | 42 Berlin Graduate
 
+"We demand rigidly‐defined areas of doubt and uncertainty!" _Hitchhiker’s Guide To The Galaxy_
+
 ---
 
 ### 💻 Tech Stack & Tools
