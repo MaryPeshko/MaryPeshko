@@ -1,9 +1,15 @@
 👋 **Hi, I’m Maryna Peshko** (she/her)
 
 <!-- About me section -->
-Software Engineer | C/C++, Python (FastAPI), TypeScript (React), Linux | 
-Backend, Systems & Embedded | 42 Berlin Graduate
+Software Engineer | Backend & Full-Stack | 42 Berlin Graduate
 
+---
+
+### 💻 Tech Stack & Tools
+
+- **Languages:** C, C++, Python (FastAPI), TypeScript (React), SQL
+- **Backend & Databases:** RESTful APIs, PostgreSQL, ORM: SQLModel / SQLAlchemy, JWT / OAuth2
+- **DevOps & Infrastructure:** Git, GitHub Actions (CI/CD), Docker & Docker Compose, Nginx, Linux / Unix System Administration, Bash
 ---
 
 ### 🚀 About Me
@@ -22,14 +28,6 @@ I am passionate about building software that matters. In the long run, I aim to 
 - **DefenseTech / MilTech** & European technological sovereignty
 - **Infrastructure & Low-Level Systems Engineering**
 - **IoT & Embedded Systems**
-
----
-
-### 💻 Tech Stack & Tools
-
-- **Languages:** C, C++, Python (FastAPI), JavaScript, SQL
-- **Backend & Databases:** RESTful APIs, PostgreSQL, SQLModel / SQLAlchemy, JWT / OAuth2, Docker & Docker Compose
-- **DevOps & Infrastructure:** Git, GitHub Actions (CI/CD), Nginx, Linux / Unix System Administration, Bash
 
 ---
 
