@@ -37,11 +37,6 @@ I am passionate about building software that matters. In the long run, I aim to 
 - 🦆 **Birdwatching:** Passionate birder in Berlin (spotted almost 100 species with my binoculars!).
 ---
 
-### 📫 Connect with Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/maryna-peshko](https://www.linkedin.com/in/maryna-peshko/)
-- 📧 **Email:** maryna.peshko@tutamail.com
-
 <!---
 MariPeshko/MariPeshko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
